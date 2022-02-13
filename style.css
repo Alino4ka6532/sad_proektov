@@ -1,0 +1,31 @@
+header a{
+    background-color: rgb(106, 188, 255);
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+header {
+    border: 15px solid lightgreen;
+    border-radius: 12px;
+}
+h1 {
+    border: 15px solid lightblue;
+    border-radius: 12px;
+}
+img {
+    border:2px solid tan;
+    border-radius: 8px;
+}
+table {
+    border-radius: 12px;
+    padding: 5px;
+}
+footer {
+    border: 15px solid lightgreen;
+    border-radius: 12px;
+    padding: 5px;
+    margin: 10px;
+}
